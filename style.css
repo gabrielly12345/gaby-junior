@@ -1,0 +1,8 @@
+header{
+    background-color: blue;
+    display: flex;
+    justify-content: space-around;
+}
+.cabeçalho-lista-item{
+    display: inline-block;
+}
